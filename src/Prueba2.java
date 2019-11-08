@@ -1,3 +1,5 @@
+//Luis Pazos
+
 import java.util.Scanner;
 
 
@@ -40,6 +42,5 @@ public class Prueba2 {
         return "Ideal. Trabajs los contenidos en casa.";
 
     }
-
 
 }
