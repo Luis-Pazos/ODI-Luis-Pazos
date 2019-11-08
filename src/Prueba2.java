@@ -24,7 +24,7 @@ public class Prueba2 {
         System.out.println(veredicto(Integer.toString(modulos),Integer.toString(horas)));
     }
 
-    static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
 
         if(valor1.equals(valor2)) {
 
